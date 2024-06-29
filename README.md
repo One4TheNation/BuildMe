@@ -2,6 +2,9 @@
 
 ![Project Preview](./utils/ScreenRecording2024-06-29at9.06.24AM-ezgif.com-speed.gif)
 
+## View Project
+[view link](https://drive.google.com/file/d/1rpP3QSG7EIsVeG_r9hs97zms1U9VpBWl/view?usp=sharing)
+
 ## Table of Contents
 * [License](#license)
 * [Description](#description)
